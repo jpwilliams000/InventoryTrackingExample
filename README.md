@@ -8,13 +8,8 @@ Standalone Java SE application that demonstrates foundational data encapsulation
 Project 
 Number	 
 Project 5
- 
-Project Name	 
+ 	 
 Program Filenames: VendingMachine.java, VendingItem.java, Driver.java, Snack.java, BottledBeverage.java, CannedBeverage.java
- 
-Project Folder Name	 
-Project5_Firstname_Lastname
-(example: Project5_Walter_White)
  
 The project folder will contain the following files:
 •	BottledBevearge.java
@@ -26,20 +21,6 @@ The project folder will contain the following files:
 •	Project3Report.txt
 •	Do not submit the class file(s) automatically created when the Java files compile.
 Zip the folder and upload in Blackboard.
- 
-Do not submit .rar files.
- 
-Chapter Review	 
-Chapters 1-8
- 
- 
-Points	 
-50 – See Grading Score Card
- 
-Assistance	 
-Instructors and teaching assistants have been available to assist with all practice work. Students are now expected to complete this project without assistance from others (this includes receiving assistance from individuals inside or outside of CPCC). Students should consider projects as non-proctored exams. Please review the academic integrity policy on your syllabus.
- 
-Please note: students can continue to receive assistance with practice work up to 5:00 p.m. on the due date (review the late period policy on the syllabus).
 
 In this part of the project, the vending machine company wants you to implement functionality into the vending machines so that Route Service Representatives can stock, restock, and remove items from the vending machines in addition to customers making purchases from the vending machines.
  
