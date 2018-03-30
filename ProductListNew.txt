@@ -1,0 +1,84 @@
+Canned Cola
+0.75
+1
+2
+
+Chewing Gum
+0.50
+1
+1
+
+Bottled Iced Tea
+1.25
+1
+3
+
+Bubble Gum
+0.55
+1
+1
+
+Canned Root Beer
+0.75
+1
+2
+
+Potato Chips
+0.65
+1
+1
+
+Canned Lemon-Lime Soda
+0.75
+1
+2
+
+Peanut Butter Crackers
+0.70
+1
+1
+
+Bottled Water
+1.00
+1
+3
+
+Canned Grape Soda
+0.80
+1
+2
+
+Bottled Strawberry Lemonade
+1.89
+1
+3
+
+Canned Cream Soda
+0.75
+1
+2
+
+Bottled Raspberry Lemonade
+1.89
+1
+3
+
+Canned Orange Soda
+0.75
+1
+2
+
+Bottled Blackberry Lemonade
+1.89
+1
+3
+
+Canned Strawberry Soda
+0.75
+1
+2
+
+Cheese and Crackers
+0.70
+1
+1
