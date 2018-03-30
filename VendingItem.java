@@ -89,10 +89,13 @@ public class VendingItem
    }
    public String stats()
    {
-      return String.format("%-20s" +
+      return String.format("%-30s" +
                            "%-15d" +
                            "%-8.2f"
                            , itemName, itemQuantitySold, calcItemRevenue());
+   }
+   public void restock(){
+   
    }
    
    //overridden tostring with formating
